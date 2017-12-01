@@ -259,6 +259,9 @@
         <Component class="javax.swing.JButton" name="firstDS">
           <Properties>
             <Property name="text" type="java.lang.String" value="Eb"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="firstDSActionPerformed"/>
@@ -267,6 +270,9 @@
         <Component class="javax.swing.JButton" name="firstAS">
           <Properties>
             <Property name="text" type="java.lang.String" value="A#"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="firstASActionPerformed"/>
@@ -275,6 +281,9 @@
         <Component class="javax.swing.JButton" name="secondC">
           <Properties>
             <Property name="text" type="java.lang.String" value="C"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="secondCActionPerformed"/>
@@ -283,6 +292,9 @@
         <Component class="javax.swing.JButton" name="thirdF">
           <Properties>
             <Property name="text" type="java.lang.String" value="F"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="thirdFActionPerformed"/>
@@ -291,6 +303,9 @@
         <Component class="javax.swing.JButton" name="firstGS">
           <Properties>
             <Property name="text" type="java.lang.String" value="G#"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="firstGSActionPerformed"/>
@@ -299,6 +314,9 @@
         <Component class="javax.swing.JButton" name="firstF">
           <Properties>
             <Property name="text" type="java.lang.String" value="F"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="firstFActionPerformed"/>
@@ -307,6 +325,9 @@
         <Component class="javax.swing.JButton" name="secondFS">
           <Properties>
             <Property name="text" type="java.lang.String" value="F#"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="secondFSActionPerformed"/>
@@ -315,6 +336,9 @@
         <Component class="javax.swing.JButton" name="thirdG">
           <Properties>
             <Property name="text" type="java.lang.String" value="G"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="thirdGActionPerformed"/>
@@ -323,6 +347,9 @@
         <Component class="javax.swing.JButton" name="firstCS">
           <Properties>
             <Property name="text" type="java.lang.String" value="C#"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="firstCSActionPerformed"/>
@@ -331,6 +358,9 @@
         <Component class="javax.swing.JButton" name="secondA">
           <Properties>
             <Property name="text" type="java.lang.String" value="A"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="secondAActionPerformed"/>
@@ -339,6 +369,9 @@
         <Component class="javax.swing.JButton" name="secondE">
           <Properties>
             <Property name="text" type="java.lang.String" value="E"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="secondEActionPerformed"/>
@@ -347,6 +380,9 @@
         <Component class="javax.swing.JButton" name="firstB">
           <Properties>
             <Property name="text" type="java.lang.String" value="B"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="firstBActionPerformed"/>
@@ -355,6 +391,9 @@
         <Component class="javax.swing.JButton" name="firstFS">
           <Properties>
             <Property name="text" type="java.lang.String" value="F#"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="firstFSActionPerformed"/>
@@ -363,6 +402,9 @@
         <Component class="javax.swing.JButton" name="secondD">
           <Properties>
             <Property name="text" type="java.lang.String" value="D"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="secondDActionPerformed"/>
@@ -371,6 +413,9 @@
         <Component class="javax.swing.JButton" name="secondAS">
           <Properties>
             <Property name="text" type="java.lang.String" value="A#"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="secondASActionPerformed"/>
@@ -379,6 +424,9 @@
         <Component class="javax.swing.JButton" name="secondF">
           <Properties>
             <Property name="text" type="java.lang.String" value="F"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="secondFActionPerformed"/>
@@ -387,6 +435,9 @@
         <Component class="javax.swing.JButton" name="firstC">
           <Properties>
             <Property name="text" type="java.lang.String" value="C"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="firstCActionPerformed"/>
@@ -395,6 +446,9 @@
         <Component class="javax.swing.JButton" name="firstG">
           <Properties>
             <Property name="text" type="java.lang.String" value="G"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="firstGActionPerformed"/>
@@ -462,6 +516,9 @@
         <Component class="javax.swing.JButton" name="secondGSLowE">
           <Properties>
             <Property name="text" type="java.lang.String" value="G#"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="secondGSLowEActionPerformed"/>
@@ -470,6 +527,9 @@
         <Component class="javax.swing.JButton" name="cSharpAString">
           <Properties>
             <Property name="text" type="java.lang.String" value="C#"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cSharpAStringActionPerformed"/>
@@ -478,6 +538,9 @@
         <Component class="javax.swing.JButton" name="fSharpDString">
           <Properties>
             <Property name="text" type="java.lang.String" value="F#"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="fSharpDStringActionPerformed"/>
@@ -486,6 +549,9 @@
         <Component class="javax.swing.JButton" name="bGString">
           <Properties>
             <Property name="text" type="java.lang.String" value="B"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bGStringActionPerformed"/>
@@ -494,6 +560,9 @@
         <Component class="javax.swing.JButton" name="eFlatBString">
           <Properties>
             <Property name="text" type="java.lang.String" value="Eb"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="eFlatBStringActionPerformed"/>
@@ -502,6 +571,9 @@
         <Component class="javax.swing.JButton" name="gSharpEString">
           <Properties>
             <Property name="text" type="java.lang.String" value="G#"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="gSharpEStringActionPerformed"/>
@@ -510,6 +582,9 @@
         <Component class="javax.swing.JButton" name="aLowEString">
           <Properties>
             <Property name="text" type="java.lang.String" value="A"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="aLowEStringActionPerformed"/>
@@ -518,6 +593,9 @@
         <Component class="javax.swing.JButton" name="dAString">
           <Properties>
             <Property name="text" type="java.lang.String" value="D"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="dAStringActionPerformed"/>
@@ -526,6 +604,9 @@
         <Component class="javax.swing.JButton" name="gDString">
           <Properties>
             <Property name="text" type="java.lang.String" value="G"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="gDStringActionPerformed"/>
@@ -534,6 +615,9 @@
         <Component class="javax.swing.JButton" name="cGString">
           <Properties>
             <Property name="text" type="java.lang.String" value="C"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cGStringActionPerformed"/>
@@ -542,6 +626,9 @@
         <Component class="javax.swing.JButton" name="eBString">
           <Properties>
             <Property name="text" type="java.lang.String" value="E"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="eBStringActionPerformed"/>
@@ -550,6 +637,9 @@
         <Component class="javax.swing.JButton" name="aHighEString">
           <Properties>
             <Property name="text" type="java.lang.String" value="A"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="aHighEStringActionPerformed"/>
@@ -593,6 +683,9 @@
         <Component class="javax.swing.JButton" name="lowEString">
           <Properties>
             <Property name="text" type="java.lang.String" value="E"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="lowEStringActionPerformed"/>
@@ -603,6 +696,9 @@
         <Component class="javax.swing.JButton" name="aString">
           <Properties>
             <Property name="text" type="java.lang.String" value="A"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="aStringActionPerformed"/>
@@ -611,6 +707,9 @@
         <Component class="javax.swing.JButton" name="dString">
           <Properties>
             <Property name="text" type="java.lang.String" value="D"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="dStringActionPerformed"/>
@@ -619,6 +718,9 @@
         <Component class="javax.swing.JButton" name="gString">
           <Properties>
             <Property name="text" type="java.lang.String" value="G"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="gStringActionPerformed"/>
@@ -627,6 +729,9 @@
         <Component class="javax.swing.JButton" name="bString">
           <Properties>
             <Property name="text" type="java.lang.String" value="B"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bStringActionPerformed"/>
@@ -635,6 +740,9 @@
         <Component class="javax.swing.JButton" name="eString">
           <Properties>
             <Property name="text" type="java.lang.String" value="E"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="eStringActionPerformed"/>

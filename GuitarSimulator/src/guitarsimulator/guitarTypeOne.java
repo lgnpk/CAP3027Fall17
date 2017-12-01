@@ -86,6 +86,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         jPanel1.setBackground(new java.awt.Color(0, 0, 0));
 
         firstDS.setText("Eb");
+        firstDS.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         firstDS.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 firstDSActionPerformed(evt);
@@ -93,6 +94,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         firstAS.setText("A#");
+        firstAS.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         firstAS.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 firstASActionPerformed(evt);
@@ -100,6 +102,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         secondC.setText("C");
+        secondC.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         secondC.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 secondCActionPerformed(evt);
@@ -107,6 +110,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         thirdF.setText("F");
+        thirdF.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         thirdF.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 thirdFActionPerformed(evt);
@@ -114,6 +118,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         firstGS.setText("G#");
+        firstGS.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         firstGS.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 firstGSActionPerformed(evt);
@@ -121,6 +126,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         firstF.setText("F");
+        firstF.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         firstF.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 firstFActionPerformed(evt);
@@ -128,6 +134,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         secondFS.setText("F#");
+        secondFS.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         secondFS.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 secondFSActionPerformed(evt);
@@ -135,6 +142,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         thirdG.setText("G");
+        thirdG.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         thirdG.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 thirdGActionPerformed(evt);
@@ -142,6 +150,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         firstCS.setText("C#");
+        firstCS.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         firstCS.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 firstCSActionPerformed(evt);
@@ -149,6 +158,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         secondA.setText("A");
+        secondA.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         secondA.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 secondAActionPerformed(evt);
@@ -156,6 +166,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         secondE.setText("E");
+        secondE.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         secondE.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 secondEActionPerformed(evt);
@@ -163,6 +174,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         firstB.setText("B");
+        firstB.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         firstB.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 firstBActionPerformed(evt);
@@ -170,6 +182,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         firstFS.setText("F#");
+        firstFS.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         firstFS.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 firstFSActionPerformed(evt);
@@ -177,6 +190,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         secondD.setText("D");
+        secondD.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         secondD.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 secondDActionPerformed(evt);
@@ -184,6 +198,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         secondAS.setText("A#");
+        secondAS.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         secondAS.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 secondASActionPerformed(evt);
@@ -191,6 +206,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         secondF.setText("F");
+        secondF.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         secondF.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 secondFActionPerformed(evt);
@@ -198,6 +214,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         firstC.setText("C");
+        firstC.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         firstC.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 firstCActionPerformed(evt);
@@ -205,6 +222,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         firstG.setText("G");
+        firstG.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         firstG.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 firstGActionPerformed(evt);
@@ -234,6 +252,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         jLabel7.setText("Welcome to Guitar Simulator!");
 
         secondGSLowE.setText("G#");
+        secondGSLowE.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         secondGSLowE.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 secondGSLowEActionPerformed(evt);
@@ -241,6 +260,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         cSharpAString.setText("C#");
+        cSharpAString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         cSharpAString.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 cSharpAStringActionPerformed(evt);
@@ -248,6 +268,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         fSharpDString.setText("F#");
+        fSharpDString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         fSharpDString.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 fSharpDStringActionPerformed(evt);
@@ -255,6 +276,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         bGString.setText("B");
+        bGString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         bGString.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 bGStringActionPerformed(evt);
@@ -262,6 +284,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         eFlatBString.setText("Eb");
+        eFlatBString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         eFlatBString.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 eFlatBStringActionPerformed(evt);
@@ -269,6 +292,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         gSharpEString.setText("G#");
+        gSharpEString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         gSharpEString.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 gSharpEStringActionPerformed(evt);
@@ -276,6 +300,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         aLowEString.setText("A");
+        aLowEString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         aLowEString.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 aLowEStringActionPerformed(evt);
@@ -283,6 +308,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         dAString.setText("D");
+        dAString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         dAString.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 dAStringActionPerformed(evt);
@@ -290,6 +316,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         gDString.setText("G");
+        gDString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         gDString.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 gDStringActionPerformed(evt);
@@ -297,6 +324,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         cGString.setText("C");
+        cGString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         cGString.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 cGStringActionPerformed(evt);
@@ -304,6 +332,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         eBString.setText("E");
+        eBString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         eBString.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 eBStringActionPerformed(evt);
@@ -311,6 +340,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         aHighEString.setText("A");
+        aHighEString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         aHighEString.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 aHighEStringActionPerformed(evt);
@@ -331,6 +361,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         jCheckBox3.setText("jCheckBox3");
 
         lowEString.setText("E");
+        lowEString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         lowEString.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 lowEStringActionPerformed(evt);
@@ -346,6 +377,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         aString.setText("A");
+        aString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         aString.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 aStringActionPerformed(evt);
@@ -353,6 +385,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         dString.setText("D");
+        dString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         dString.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 dStringActionPerformed(evt);
@@ -360,6 +393,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         gString.setText("G");
+        gString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         gString.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 gStringActionPerformed(evt);
@@ -367,6 +401,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         bString.setText("B");
+        bString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         bString.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 bStringActionPerformed(evt);
@@ -374,6 +409,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
         });
 
         eString.setText("E");
+        eString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         eString.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 eStringActionPerformed(evt);
