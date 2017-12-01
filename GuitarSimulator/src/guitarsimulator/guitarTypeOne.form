@@ -25,15 +25,17 @@
       <Group type="103" groupAlignment="0" attributes="0">
           <Group type="102" alignment="0" attributes="0">
               <EmptySpace max="-2" attributes="0"/>
-              <Component id="jPanel1" max="32767" attributes="0"/>
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="22" max="32767" attributes="0"/>
           </Group>
       </Group>
     </DimensionLayout>
     <DimensionLayout dim="1">
       <Group type="103" groupAlignment="0" attributes="0">
           <Group type="102" alignment="1" attributes="0">
-              <EmptySpace min="0" pref="10" max="32767" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
               <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
           </Group>
       </Group>
     </DimensionLayout>
@@ -50,23 +52,9 @@
         <DimensionLayout dim="0">
           <Group type="103" groupAlignment="0" attributes="0">
               <Group type="102" attributes="0">
+                  <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="1" attributes="0">
                       <Group type="102" attributes="0">
-                          <Group type="103" groupAlignment="0" attributes="0">
-                              <Group type="102" attributes="0">
-                                  <EmptySpace min="-2" pref="8" max="-2" attributes="0"/>
-                                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
-                              </Group>
-                              <Group type="102" attributes="0">
-                                  <EmptySpace max="-2" attributes="0"/>
-                                  <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
-                              </Group>
-                              <Component id="jLabel4" alignment="1" min="-2" max="-2" attributes="0"/>
-                              <Component id="jLabel5" alignment="1" min="-2" max="-2" attributes="0"/>
-                              <Component id="jLabel6" alignment="1" min="-2" max="-2" attributes="0"/>
-                              <Component id="jLabel3" alignment="1" min="-2" max="-2" attributes="0"/>
-                          </Group>
-                          <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
                           <Group type="103" groupAlignment="1" attributes="0">
                               <Component id="lowEString" min="-2" max="-2" attributes="0"/>
                               <Component id="aString" min="-2" max="-2" attributes="0"/>
@@ -94,12 +82,9 @@
                               <Component id="firstB" alignment="0" min="-2" pref="139" max="-2" attributes="0"/>
                           </Group>
                       </Group>
-                      <Group type="102" attributes="0">
-                          <EmptySpace min="-2" pref="322" max="-2" attributes="0"/>
-                          <Component id="jCheckBox1" min="-2" max="-2" attributes="0"/>
-                      </Group>
+                      <Component id="jCheckBox1" min="-2" max="-2" attributes="0"/>
                   </Group>
-                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="0" attributes="0">
                       <Group type="102" attributes="0">
                           <Component id="secondF" min="-2" pref="125" max="-2" attributes="0"/>
@@ -124,13 +109,6 @@
                       </Group>
                       <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
                           <Group type="102" attributes="0">
-                              <Component id="thirdG" min="-2" pref="125" max="-2" attributes="0"/>
-                              <EmptySpace max="-2" attributes="0"/>
-                              <Component id="gSharpEString" min="-2" pref="110" max="-2" attributes="0"/>
-                              <EmptySpace max="-2" attributes="0"/>
-                              <Component id="aHighEString" max="32767" attributes="0"/>
-                          </Group>
-                          <Group type="102" attributes="0">
                               <Component id="secondD" min="-2" pref="125" max="-2" attributes="0"/>
                               <EmptySpace max="-2" attributes="0"/>
                               <Component id="eFlatBString" min="-2" pref="110" max="-2" attributes="0"/>
@@ -144,27 +122,32 @@
                               <EmptySpace max="-2" attributes="0"/>
                               <Component id="cGString" min="-2" pref="100" max="-2" attributes="0"/>
                           </Group>
-                      </Group>
-                      <Group type="102" alignment="0" attributes="0">
-                          <Component id="jCheckBox2" min="-2" max="-2" attributes="0"/>
-                          <EmptySpace type="separate" max="-2" attributes="0"/>
-                          <Component id="jCheckBox3" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="thirdG" alignment="0" min="-2" pref="125" max="-2" attributes="0"/>
+                                  <Component id="jCheckBox2" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jCheckBox3" min="-2" max="-2" attributes="0"/>
+                                  <Group type="102" attributes="0">
+                                      <Component id="gSharpEString" min="-2" pref="110" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="aHighEString" max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
                       </Group>
                   </Group>
-                  <EmptySpace pref="167" max="32767" attributes="0"/>
+                  <EmptySpace pref="260" max="32767" attributes="0"/>
               </Group>
               <Group type="102" alignment="1" attributes="0">
                   <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
-                  <Group type="103" groupAlignment="0" attributes="0">
-                      <Group type="102" alignment="1" attributes="0">
-                          <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
-                          <EmptySpace min="-2" pref="307" max="-2" attributes="0"/>
-                      </Group>
-                      <Group type="102" alignment="1" attributes="0">
-                          <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
-                          <EmptySpace min="-2" pref="323" max="-2" attributes="0"/>
-                      </Group>
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Component id="jLabel7" alignment="1" min="-2" pref="325" max="-2" attributes="0"/>
+                      <Component id="jLabel8" alignment="1" min="-2" max="-2" attributes="0"/>
                   </Group>
+                  <EmptySpace min="-2" pref="345" max="-2" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -188,7 +171,6 @@
                           <Component id="thirdF" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="secondFS" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="thirdG" alignment="3" min="-2" max="-2" attributes="0"/>
-                          <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="gSharpEString" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="aHighEString" alignment="3" min="-2" max="-2" attributes="0"/>
                       </Group>
@@ -200,7 +182,6 @@
                           <Component id="secondC" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="firstCS" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="secondD" alignment="3" min="-2" max="-2" attributes="0"/>
-                          <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="eFlatBString" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="eBString" alignment="3" min="-2" max="-2" attributes="0"/>
                       </Group>
@@ -212,7 +193,6 @@
                           <Component id="firstGS" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="secondA" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="secondAS" alignment="3" min="-2" max="-2" attributes="0"/>
-                          <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="bGString" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="cGString" alignment="3" min="-2" max="-2" attributes="0"/>
                       </Group>
@@ -224,7 +204,6 @@
                           <Component id="firstDS" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="secondE" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="secondF" alignment="3" min="-2" max="-2" attributes="0"/>
-                          <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="fSharpDString" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="gDString" alignment="3" min="-2" max="-2" attributes="0"/>
                       </Group>
@@ -236,7 +215,6 @@
                           <Component id="firstAS" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="firstB" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="firstC" alignment="3" min="-2" max="-2" attributes="0"/>
-                          <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="cSharpAString" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="dAString" alignment="3" min="-2" max="-2" attributes="0"/>
                       </Group>
@@ -245,12 +223,11 @@
                       <Component id="firstF" alignment="3" min="-2" max="-2" attributes="0"/>
                       <Component id="firstFS" alignment="3" min="-2" max="-2" attributes="0"/>
                       <Component id="firstG" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="jLabel6" alignment="3" min="-2" max="-2" attributes="0"/>
                       <Component id="secondGSLowE" alignment="3" min="-2" max="-2" attributes="0"/>
                       <Component id="aLowEString" alignment="3" min="-2" max="-2" attributes="0"/>
                       <Component id="lowEString" alignment="3" min="-2" max="-2" attributes="0"/>
                   </Group>
-                  <EmptySpace pref="155" max="32767" attributes="0"/>
+                  <EmptySpace pref="166" max="32767" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -258,6 +235,9 @@
       <SubComponents>
         <Component class="javax.swing.JButton" name="firstDS">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="Eb"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -269,6 +249,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="firstAS">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="A#"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -280,6 +263,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="secondC">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="C"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -291,6 +277,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="thirdF">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="F"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -302,6 +291,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="firstGS">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="G#"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -313,6 +305,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="firstF">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="F"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -324,6 +319,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="secondFS">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="F#"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -335,6 +333,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="thirdG">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="G"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -346,6 +347,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="firstCS">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="C#"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -357,6 +361,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="secondA">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="A"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -368,6 +375,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="secondE">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="E"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -379,6 +389,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="firstB">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="B"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -390,6 +403,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="firstFS">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="F#"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -401,6 +417,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="secondD">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="D"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -412,6 +431,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="secondAS">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="A#"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -423,6 +445,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="secondF">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="F"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -434,6 +459,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="firstC">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="C"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -445,6 +473,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="firstG">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="G"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -454,58 +485,10 @@
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="firstGActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JLabel" name="jLabel1">
-          <Properties>
-            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-              <Color blue="ff" green="ff" red="ff" type="rgb"/>
-            </Property>
-            <Property name="text" type="java.lang.String" value="E"/>
-          </Properties>
-        </Component>
-        <Component class="javax.swing.JLabel" name="jLabel2">
-          <Properties>
-            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-              <Color blue="ff" green="ff" red="ff" type="rgb"/>
-            </Property>
-            <Property name="text" type="java.lang.String" value="B"/>
-          </Properties>
-        </Component>
-        <Component class="javax.swing.JLabel" name="jLabel3">
-          <Properties>
-            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-              <Color blue="ff" green="ff" red="ff" type="rgb"/>
-            </Property>
-            <Property name="text" type="java.lang.String" value="G"/>
-          </Properties>
-        </Component>
-        <Component class="javax.swing.JLabel" name="jLabel4">
-          <Properties>
-            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-              <Color blue="ff" green="ff" red="ff" type="rgb"/>
-            </Property>
-            <Property name="text" type="java.lang.String" value="D"/>
-          </Properties>
-        </Component>
-        <Component class="javax.swing.JLabel" name="jLabel5">
-          <Properties>
-            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-              <Color blue="ff" green="ff" red="ff" type="rgb"/>
-            </Property>
-            <Property name="text" type="java.lang.String" value="A"/>
-          </Properties>
-        </Component>
-        <Component class="javax.swing.JLabel" name="jLabel6">
-          <Properties>
-            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-              <Color blue="ff" green="ff" red="ff" type="rgb"/>
-            </Property>
-            <Property name="text" type="java.lang.String" value="E"/>
-          </Properties>
-        </Component>
         <Component class="javax.swing.JLabel" name="jLabel7">
           <Properties>
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-              <Font name="Source Sans Pro" size="24" style="1"/>
+              <Font name="Proxima Nova" size="24" style="1"/>
             </Property>
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
@@ -515,6 +498,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="secondGSLowE">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="G#"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -526,6 +512,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="cSharpAString">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="C#"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -537,6 +526,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="fSharpDString">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="F#"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -548,6 +540,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="bGString">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="B"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -559,6 +554,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="eFlatBString">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="Eb"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -570,6 +568,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="gSharpEString">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="G#"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -581,6 +582,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="aLowEString">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="A"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -592,6 +596,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="dAString">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="D"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -603,6 +610,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="gDString">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="G"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -614,6 +624,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="cGString">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="C"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -625,6 +638,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="eBString">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="E"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -636,6 +652,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="aHighEString">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="A"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -658,6 +677,9 @@
         </Component>
         <Component class="javax.swing.JCheckBox" name="jCheckBox1">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="0"/>
+            </Property>
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
@@ -666,6 +688,9 @@
         </Component>
         <Component class="javax.swing.JCheckBox" name="jCheckBox2">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="0"/>
+            </Property>
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
@@ -674,14 +699,23 @@
         </Component>
         <Component class="javax.swing.JCheckBox" name="jCheckBox3">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="0"/>
+            </Property>
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
             <Property name="text" type="java.lang.String" value="jCheckBox3"/>
           </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jCheckBox3ActionPerformed"/>
+          </Events>
         </Component>
         <Component class="javax.swing.JButton" name="lowEString">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="E"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -695,6 +729,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="aString">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="A"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -706,6 +743,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="dString">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="D"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -717,6 +757,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="gString">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="G"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -728,6 +771,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="bString">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="B"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
@@ -739,10 +785,14 @@
         </Component>
         <Component class="javax.swing.JButton" name="eString">
           <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Proxima Nova" size="13" style="1"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="E"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
             </Property>
+            <Property name="rolloverEnabled" type="boolean" value="true"/>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="eStringActionPerformed"/>

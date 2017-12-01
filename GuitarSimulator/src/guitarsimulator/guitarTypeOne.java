@@ -51,12 +51,6 @@ public class guitarTypeOne extends javax.swing.JFrame {
         secondF = new javax.swing.JButton();
         firstC = new javax.swing.JButton();
         firstG = new javax.swing.JButton();
-        jLabel1 = new javax.swing.JLabel();
-        jLabel2 = new javax.swing.JLabel();
-        jLabel3 = new javax.swing.JLabel();
-        jLabel4 = new javax.swing.JLabel();
-        jLabel5 = new javax.swing.JLabel();
-        jLabel6 = new javax.swing.JLabel();
         jLabel7 = new javax.swing.JLabel();
         secondGSLowE = new javax.swing.JButton();
         cSharpAString = new javax.swing.JButton();
@@ -85,6 +79,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
 
         jPanel1.setBackground(new java.awt.Color(0, 0, 0));
 
+        firstDS.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         firstDS.setText("Eb");
         firstDS.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         firstDS.addActionListener(new java.awt.event.ActionListener() {
@@ -93,6 +88,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        firstAS.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         firstAS.setText("A#");
         firstAS.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         firstAS.addActionListener(new java.awt.event.ActionListener() {
@@ -101,6 +97,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        secondC.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         secondC.setText("C");
         secondC.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         secondC.addActionListener(new java.awt.event.ActionListener() {
@@ -109,6 +106,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        thirdF.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         thirdF.setText("F");
         thirdF.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         thirdF.addActionListener(new java.awt.event.ActionListener() {
@@ -117,6 +115,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        firstGS.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         firstGS.setText("G#");
         firstGS.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         firstGS.addActionListener(new java.awt.event.ActionListener() {
@@ -125,6 +124,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        firstF.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         firstF.setText("F");
         firstF.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         firstF.addActionListener(new java.awt.event.ActionListener() {
@@ -133,6 +133,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        secondFS.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         secondFS.setText("F#");
         secondFS.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         secondFS.addActionListener(new java.awt.event.ActionListener() {
@@ -141,6 +142,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        thirdG.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         thirdG.setText("G");
         thirdG.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         thirdG.addActionListener(new java.awt.event.ActionListener() {
@@ -149,6 +151,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        firstCS.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         firstCS.setText("C#");
         firstCS.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         firstCS.addActionListener(new java.awt.event.ActionListener() {
@@ -157,6 +160,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        secondA.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         secondA.setText("A");
         secondA.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         secondA.addActionListener(new java.awt.event.ActionListener() {
@@ -165,6 +169,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        secondE.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         secondE.setText("E");
         secondE.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         secondE.addActionListener(new java.awt.event.ActionListener() {
@@ -173,6 +178,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        firstB.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         firstB.setText("B");
         firstB.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         firstB.addActionListener(new java.awt.event.ActionListener() {
@@ -181,6 +187,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        firstFS.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         firstFS.setText("F#");
         firstFS.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         firstFS.addActionListener(new java.awt.event.ActionListener() {
@@ -189,6 +196,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        secondD.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         secondD.setText("D");
         secondD.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         secondD.addActionListener(new java.awt.event.ActionListener() {
@@ -197,6 +205,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        secondAS.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         secondAS.setText("A#");
         secondAS.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         secondAS.addActionListener(new java.awt.event.ActionListener() {
@@ -205,6 +214,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        secondF.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         secondF.setText("F");
         secondF.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         secondF.addActionListener(new java.awt.event.ActionListener() {
@@ -213,6 +223,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        firstC.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         firstC.setText("C");
         firstC.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         firstC.addActionListener(new java.awt.event.ActionListener() {
@@ -221,6 +232,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        firstG.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         firstG.setText("G");
         firstG.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         firstG.addActionListener(new java.awt.event.ActionListener() {
@@ -229,28 +241,11 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
-        jLabel1.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel1.setText("E");
-
-        jLabel2.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel2.setText("B");
-
-        jLabel3.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel3.setText("G");
-
-        jLabel4.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel4.setText("D");
-
-        jLabel5.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel5.setText("A");
-
-        jLabel6.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel6.setText("E");
-
-        jLabel7.setFont(new java.awt.Font("Source Sans Pro", 1, 24)); // NOI18N
+        jLabel7.setFont(new java.awt.Font("Proxima Nova", 1, 24)); // NOI18N
         jLabel7.setForeground(new java.awt.Color(255, 255, 255));
         jLabel7.setText("Welcome to Guitar Simulator!");
 
+        secondGSLowE.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         secondGSLowE.setText("G#");
         secondGSLowE.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         secondGSLowE.addActionListener(new java.awt.event.ActionListener() {
@@ -259,6 +254,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        cSharpAString.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         cSharpAString.setText("C#");
         cSharpAString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         cSharpAString.addActionListener(new java.awt.event.ActionListener() {
@@ -267,6 +263,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        fSharpDString.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         fSharpDString.setText("F#");
         fSharpDString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         fSharpDString.addActionListener(new java.awt.event.ActionListener() {
@@ -275,6 +272,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        bGString.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         bGString.setText("B");
         bGString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         bGString.addActionListener(new java.awt.event.ActionListener() {
@@ -283,6 +281,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        eFlatBString.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         eFlatBString.setText("Eb");
         eFlatBString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         eFlatBString.addActionListener(new java.awt.event.ActionListener() {
@@ -291,6 +290,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        gSharpEString.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         gSharpEString.setText("G#");
         gSharpEString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         gSharpEString.addActionListener(new java.awt.event.ActionListener() {
@@ -299,6 +299,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        aLowEString.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         aLowEString.setText("A");
         aLowEString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         aLowEString.addActionListener(new java.awt.event.ActionListener() {
@@ -307,6 +308,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        dAString.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         dAString.setText("D");
         dAString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         dAString.addActionListener(new java.awt.event.ActionListener() {
@@ -315,6 +317,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        gDString.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         gDString.setText("G");
         gDString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         gDString.addActionListener(new java.awt.event.ActionListener() {
@@ -323,6 +326,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        cGString.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         cGString.setText("C");
         cGString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         cGString.addActionListener(new java.awt.event.ActionListener() {
@@ -331,6 +335,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        eBString.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         eBString.setText("E");
         eBString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         eBString.addActionListener(new java.awt.event.ActionListener() {
@@ -339,6 +344,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        aHighEString.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         aHighEString.setText("A");
         aHighEString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         aHighEString.addActionListener(new java.awt.event.ActionListener() {
@@ -351,15 +357,24 @@ public class guitarTypeOne extends javax.swing.JFrame {
         jLabel8.setForeground(new java.awt.Color(255, 255, 255));
         jLabel8.setText("Choose your guitar by selecting the checkbox below");
 
+        jCheckBox1.setFont(new java.awt.Font("Proxima Nova", 0, 13)); // NOI18N
         jCheckBox1.setForeground(new java.awt.Color(255, 255, 255));
         jCheckBox1.setText("jCheckBox1");
 
+        jCheckBox2.setFont(new java.awt.Font("Proxima Nova", 0, 13)); // NOI18N
         jCheckBox2.setForeground(new java.awt.Color(255, 255, 255));
         jCheckBox2.setText("jCheckBox2");
 
+        jCheckBox3.setFont(new java.awt.Font("Proxima Nova", 0, 13)); // NOI18N
         jCheckBox3.setForeground(new java.awt.Color(255, 255, 255));
         jCheckBox3.setText("jCheckBox3");
+        jCheckBox3.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jCheckBox3ActionPerformed(evt);
+            }
+        });
 
+        lowEString.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         lowEString.setText("E");
         lowEString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         lowEString.addActionListener(new java.awt.event.ActionListener() {
@@ -376,6 +391,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        aString.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         aString.setText("A");
         aString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         aString.addActionListener(new java.awt.event.ActionListener() {
@@ -384,6 +400,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        dString.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         dString.setText("D");
         dString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         dString.addActionListener(new java.awt.event.ActionListener() {
@@ -392,6 +409,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        gString.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         gString.setText("G");
         gString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         gString.addActionListener(new java.awt.event.ActionListener() {
@@ -400,6 +418,7 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        bString.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         bString.setText("B");
         bString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         bString.addActionListener(new java.awt.event.ActionListener() {
@@ -408,8 +427,10 @@ public class guitarTypeOne extends javax.swing.JFrame {
             }
         });
 
+        eString.setFont(new java.awt.Font("Proxima Nova", 1, 13)); // NOI18N
         eString.setText("E");
         eString.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
+        eString.setRolloverEnabled(true);
         eString.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 eStringActionPerformed(evt);
@@ -421,20 +442,9 @@ public class guitarTypeOne extends javax.swing.JFrame {
         jPanel1Layout.setHorizontalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
+                .addGap(39, 39, 39)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
                     .addGroup(jPanel1Layout.createSequentialGroup()
-                        .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addGroup(jPanel1Layout.createSequentialGroup()
-                                .addGap(8, 8, 8)
-                                .addComponent(jLabel1))
-                            .addGroup(jPanel1Layout.createSequentialGroup()
-                                .addContainerGap()
-                                .addComponent(jLabel2))
-                            .addComponent(jLabel4, javax.swing.GroupLayout.Alignment.TRAILING)
-                            .addComponent(jLabel5, javax.swing.GroupLayout.Alignment.TRAILING)
-                            .addComponent(jLabel6, javax.swing.GroupLayout.Alignment.TRAILING)
-                            .addComponent(jLabel3, javax.swing.GroupLayout.Alignment.TRAILING))
-                        .addGap(34, 34, 34)
                         .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
                             .addComponent(lowEString)
                             .addComponent(aString)
@@ -458,10 +468,8 @@ public class guitarTypeOne extends javax.swing.JFrame {
                             .addComponent(secondA, javax.swing.GroupLayout.PREFERRED_SIZE, 139, javax.swing.GroupLayout.PREFERRED_SIZE)
                             .addComponent(secondE, javax.swing.GroupLayout.PREFERRED_SIZE, 139, javax.swing.GroupLayout.PREFERRED_SIZE)
                             .addComponent(firstB, javax.swing.GroupLayout.PREFERRED_SIZE, 139, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                    .addGroup(jPanel1Layout.createSequentialGroup()
-                        .addGap(322, 322, 322)
-                        .addComponent(jCheckBox1)))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                    .addComponent(jCheckBox1))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jPanel1Layout.createSequentialGroup()
                         .addComponent(secondF, javax.swing.GroupLayout.PREFERRED_SIZE, 125, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -483,12 +491,6 @@ public class guitarTypeOne extends javax.swing.JFrame {
                         .addComponent(dAString, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE))
                     .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING, false)
                         .addGroup(jPanel1Layout.createSequentialGroup()
-                            .addComponent(thirdG, javax.swing.GroupLayout.PREFERRED_SIZE, 125, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                            .addComponent(gSharpEString, javax.swing.GroupLayout.PREFERRED_SIZE, 110, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                            .addComponent(aHighEString, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-                        .addGroup(jPanel1Layout.createSequentialGroup()
                             .addComponent(secondD, javax.swing.GroupLayout.PREFERRED_SIZE, 125, javax.swing.GroupLayout.PREFERRED_SIZE)
                             .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                             .addComponent(eFlatBString, javax.swing.GroupLayout.PREFERRED_SIZE, 110, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -499,21 +501,25 @@ public class guitarTypeOne extends javax.swing.JFrame {
                             .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                             .addComponent(bGString, javax.swing.GroupLayout.PREFERRED_SIZE, 110, javax.swing.GroupLayout.PREFERRED_SIZE)
                             .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                            .addComponent(cGString, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                    .addGroup(jPanel1Layout.createSequentialGroup()
-                        .addComponent(jCheckBox2)
-                        .addGap(18, 18, 18)
-                        .addComponent(jCheckBox3)))
-                .addContainerGap(167, Short.MAX_VALUE))
+                            .addComponent(cGString, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addGroup(javax.swing.GroupLayout.Alignment.LEADING, jPanel1Layout.createSequentialGroup()
+                            .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                .addComponent(thirdG, javax.swing.GroupLayout.PREFERRED_SIZE, 125, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(jCheckBox2))
+                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                            .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                .addComponent(jCheckBox3)
+                                .addGroup(jPanel1Layout.createSequentialGroup()
+                                    .addComponent(gSharpEString, javax.swing.GroupLayout.PREFERRED_SIZE, 110, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                    .addComponent(aHighEString, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))))))
+                .addContainerGap(260, Short.MAX_VALUE))
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
                 .addGap(0, 0, Short.MAX_VALUE)
-                .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
-                        .addComponent(jLabel8)
-                        .addGap(307, 307, 307))
-                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
-                        .addComponent(jLabel7)
-                        .addGap(323, 323, 323))))
+                .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                    .addComponent(jLabel7, javax.swing.GroupLayout.PREFERRED_SIZE, 325, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jLabel8))
+                .addGap(345, 345, 345))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -534,7 +540,6 @@ public class guitarTypeOne extends javax.swing.JFrame {
                         .addComponent(thirdF)
                         .addComponent(secondFS)
                         .addComponent(thirdG)
-                        .addComponent(jLabel1)
                         .addComponent(gSharpEString)
                         .addComponent(aHighEString)))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
@@ -544,7 +549,6 @@ public class guitarTypeOne extends javax.swing.JFrame {
                         .addComponent(secondC)
                         .addComponent(firstCS)
                         .addComponent(secondD)
-                        .addComponent(jLabel2)
                         .addComponent(eFlatBString)
                         .addComponent(eBString)))
                 .addGap(6, 6, 6)
@@ -554,7 +558,6 @@ public class guitarTypeOne extends javax.swing.JFrame {
                         .addComponent(firstGS)
                         .addComponent(secondA)
                         .addComponent(secondAS)
-                        .addComponent(jLabel3)
                         .addComponent(bGString)
                         .addComponent(cGString)))
                 .addGap(0, 0, 0)
@@ -564,7 +567,6 @@ public class guitarTypeOne extends javax.swing.JFrame {
                         .addComponent(firstDS)
                         .addComponent(secondE)
                         .addComponent(secondF)
-                        .addComponent(jLabel4)
                         .addComponent(fSharpDString)
                         .addComponent(gDString)))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
@@ -574,18 +576,16 @@ public class guitarTypeOne extends javax.swing.JFrame {
                         .addComponent(firstAS)
                         .addComponent(firstB)
                         .addComponent(firstC)
-                        .addComponent(jLabel5)
                         .addComponent(cSharpAString)
                         .addComponent(dAString)))
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(firstF)
                     .addComponent(firstFS)
                     .addComponent(firstG)
-                    .addComponent(jLabel6)
                     .addComponent(secondGSLowE)
                     .addComponent(aLowEString)
                     .addComponent(lowEString))
-                .addContainerGap(155, Short.MAX_VALUE))
+                .addContainerGap(166, Short.MAX_VALUE))
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
@@ -594,13 +594,15 @@ public class guitarTypeOne extends javax.swing.JFrame {
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(22, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                .addGap(0, 10, Short.MAX_VALUE)
-                .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(19, 19, 19))
         );
 
         pack();
@@ -797,6 +799,10 @@ public class guitarTypeOne extends javax.swing.JFrame {
        
     }//GEN-LAST:event_lowEStringKeyTyped
 
+    private void jCheckBox3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jCheckBox3ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jCheckBox3ActionPerformed
+
     /**
      * @param args the command line arguments
      */
@@ -859,12 +865,6 @@ public class guitarTypeOne extends javax.swing.JFrame {
     private javax.swing.JCheckBox jCheckBox1;
     private javax.swing.JCheckBox jCheckBox2;
     private javax.swing.JCheckBox jCheckBox3;
-    private javax.swing.JLabel jLabel1;
-    private javax.swing.JLabel jLabel2;
-    private javax.swing.JLabel jLabel3;
-    private javax.swing.JLabel jLabel4;
-    private javax.swing.JLabel jLabel5;
-    private javax.swing.JLabel jLabel6;
     private javax.swing.JLabel jLabel7;
     private javax.swing.JLabel jLabel8;
     private javax.swing.JPanel jPanel1;
